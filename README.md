@@ -2,6 +2,10 @@
 
 ![DenkiChip](documentation/x8y12pxDenkiChip-v1.100.png)
 
+
+# [📦最新版ダウンロードはここをクリック！](https://github.com/hicchicc/x8y12pxDenkiChip/releases/latest/download/x8y12pxDenkiChip.zip)
+
+
 ## 📝 概要と特徴
 - 2pxの太線をベースに、コンパクトさと力強さにこだわって制作したピクセルフォントです。
 長体の太字がぎっちりと並ぶエネルギー感をお楽しみ下さい。
