@@ -2,11 +2,12 @@
 
 ![DenkiChip](documentation/x8y12pxDenkiChip-v1.100.png)
 
+[![GitHub All Releases](https://img.shields.io/github/downloads/hicchicc/x8y12pxDenkiChip/total?scale=dec&cacheSeconds=43200)](https://github.com/hicchicc/x8y12pxDenkiChip/releases)
 
-# [📦最新版ダウンロードはここをクリック！](https://github.com/hicchicc/x8y12pxDenkiChip/releases/latest/download/x8y12pxDenkiChip.zip)
+## [📦 [Download] x8y12pxDenkiChip.zip](https://github.com/hicchicc/x8y12pxDenkiChip/releases/latest/download/x8y12pxDenkiChip.zip)
 
 
-## 📝 概要と特徴
+## 📝 フォント概要
 - 2pxの太線をベースに、コンパクトさと力強さにこだわって制作したピクセルフォントです。
 長体の太字がぎっちりと並ぶエネルギー感をお楽しみ下さい。
 
@@ -16,7 +17,7 @@
 
 - ピクセル実寸UIにおいて、狭いテキスト領域でも太さのある力強い文字表現が可能です。
 
-## 📐 設計と技術解説
+## 📐 フォント設計
 
 ### 垂直メトリクス設計
 - 高さは12pxをほぼ目一杯に使用しており、拡張性は乏しいが運用サイズは最小クラス。
